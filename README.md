@@ -1,4 +1,4 @@
-# amitadler
+# Amit Adler
 
 **`Threat Detection Engineer`**
 
