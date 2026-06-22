@@ -12,4 +12,5 @@ across enterprise systems.
 
 ### 🧰 Languages and Tools
 
-![splunk](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Splunk](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg?style=for-the-badge&logo=typescript&logoColor=white)
